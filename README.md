@@ -37,6 +37,9 @@ There's a read-me file inside that shows a full list of the required mods, but m
 - CUP Vehicles
 - Ravage
 - (REPLACED) Vandeanson's Apocalypse (VA 2.0)
+
+  *Download Taviana map from this link to play on the Taviana missions:https://drive.google.com/file/d/1G-ZW8CJ_YsG1kmgIN06n5bGawBVS9T6a/view*
+  ^ There is no virus as I uploaded the map myself
 -----------------------------------------------------------------------------------
 Supported Mods:
 
