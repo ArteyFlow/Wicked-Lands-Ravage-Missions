@@ -15,7 +15,7 @@ Features:
 - Magazine Repack script
 - Several other scripts from different authors which add a custom status bar, weapon holster, earplugs, and other features
 
- *** TO INSTALL THE MISSION:***
+ *** TO INSTALL THE MISSIONS:***
   1. Download repository
   2. Place the mission folders ("Ravage.Altis", "Ravage.Chernarus", etc) in your "Documents/ArmA 3/yourusername/mpmissions" folder (or "Documents/ArmA 3 - Other Profiles/yourusername/mpmissions" if you created another profile)
   3. Launch the mission by hosting a local server (either LAN or Internet)*
