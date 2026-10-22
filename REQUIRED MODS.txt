@@ -1,0 +1,261 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+REQUIRED MODS FOR WICKED LANDS RAVAGE MISSIONS
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+Ravage.Altis                  				
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- Ravage
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.chernarus							
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- CUP Terrains - Core
+- Cup Terrains - Maps
+- Ravage
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.Chernarus_Winter					
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- CUP Terrains - Core
+- Cup Terrains - Maps
+- Ravage
+- Drongo's Dynamic Weather
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.chernarusredux						
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- CUP Terrains - Core
+- Ravage
+- Chernarus Redux
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.cup_chernarus_A3						<------- Chernarus 2020
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- CUP Terrains - Core
+- Cup Terrains - Maps 2.0
+- Ravage
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.Enoch                  				<------- Livonia
+
+- Contact DLC
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- Ravage
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.Esseker                  				
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- CUP Terrains - Core
+- Ravage
+- Esseker
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.lingor3                  			<------- Lingor	
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- CUP Terrains - Core
+- Ravage
+- Lingor/Dingor Island
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.namalsk                  			
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- CUP Terrains - Core
+- Ravage
+- Namalsk
+- Drongo's Dynamic Weather
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.Napf						
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- CUP Terrains - Core
+- Ravage
+- Napf Island A3
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.NapfWinter			
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- CUP Terrains - Core
+- Ravage
+- Napf Island A3
+- Drongo's Dynamic Weather
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.panthera3							<------- Panthera		
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- CUP Terrains - Core
+- Ravage
+- Island Panthera
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.takistan							
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- CUP Terrains - Core
+- CUP Terrains - Maps
+- Ravage
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.Tanoa						
+
+- Apex DLC
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- Ravage
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.taviana							
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- CUP Terrains - Core
+- CUP Terrains - Maps
+- Ravage
+- Taviana   DOWNLOAD LINK: https://drive.google.com/file/d/1G-ZW8CJ_YsG1kmgIN06n5bGawBVS9T6a/view
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.Tembelan						
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- CUP Terrains - Core
+- Ravage
+- Tembelan Island
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Ravage.Winthera3							<------- Panthera Winter	
+
+- CBA_A3
+- CUP Units
+- CUP Weapons
+- CUP Vehicles
+- CUP Terrains - Core
+- Ravage
+- Island Panthera
+- (REPLACED) Vandeanson's Apocalypse (2.0 version)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
