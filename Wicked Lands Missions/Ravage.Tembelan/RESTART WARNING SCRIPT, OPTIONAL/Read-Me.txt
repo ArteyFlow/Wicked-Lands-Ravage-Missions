@@ -1,0 +1,12 @@
+To install this, do the following:
+
+#1: Put the line of code from the "init.sqf" file into the "init.sqf" file that's in the root mission folder
+
+#2: Put the "A3-Missionfile-Restart-warnings-master" folder in the root mission folder
+
+#3: Configure the script as desired
+
+  - "A3-Missionfile-Restart-warnings-master/ScarCode/sRestartWarnings.sqf"
+
+
+#4: Done
