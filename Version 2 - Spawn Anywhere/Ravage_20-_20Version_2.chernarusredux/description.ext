@@ -1,0 +1,45 @@
+respawnOnStart = -1;
+OnLoadName = "Wicked Lands - Chernarus Version 2";
+
+corpseManagerMode = 2;
+corpseLimit = 1;
+corpseRemovalMinTime = 3600;
+corpseRemovalMaxTime = 3615;
+
+class RscTitles
+{
+	#include "GF_Ravage_Status_Bar\GF_Ravage_Status_Bar_HPP.hpp"
+#include "GF_Earplugs\GF_Earplugs_HPP.hpp"		
+};
+
+#include "dmd_defines.h"
+#include "CHVD\dialog.hpp"
+
+#define HALs_DEF_INIT
+	#include "HALs\Addons\main\config.hpp"
+#undef HALs_DEF_INIT
+
+class CfgFunctions {
+	#include "dmd_functions.hpp"
+	#include "CHVD\CfgFunctions.hpp"
+	#define HALs_DEF_FUNCTIONS
+		#include "HALs\Addons\main\config.hpp"
+	#undef HALs_DEF_FUNCTIONS
+};
+
+#include "dmd_config.hpp"
+#include "outlw_magRepack\MagRepack_config.hpp"
+
+class CfgSounds
+{
+	sounds[] = {};
+	class Heart_Beat_dying
+	{
+		// how the sound is referred to in the editor (e.g. trigger effects)
+		name = "heart_beat";
+
+		// filename, volume, pitch, distance (optional)
+		sound[] = { "Heart_Beat_dying.ogg", 1, 1, };
+		titles[] = {0, ""}; // Subtitle delay and text
+
+	}};
