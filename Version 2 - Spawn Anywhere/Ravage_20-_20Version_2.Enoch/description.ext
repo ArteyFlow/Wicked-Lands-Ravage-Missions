@@ -1,0 +1,296 @@
+respawnOnStart = -1;
+OnLoadName = "Wicked Lands - Livonia Version 2";
+
+corpseManagerMode = 2;
+corpseLimit = 1;
+corpseRemovalMinTime = 3600;
+corpseRemovalMaxTime = 3615;
+
+class RscTitles
+{
+	#include "GF_Ravage_Status_Bar\GF_Ravage_Status_Bar_HPP.hpp"
+#include "GF_Earplugs\GF_Earplugs_HPP.hpp"		
+};
+
+#include "dmd_defines.h"
+#include "CHVD\dialog.hpp"
+
+#define HALs_DEF_INIT
+	#include "HALs\Addons\main\config.hpp"
+#undef HALs_DEF_INIT
+
+class CfgFunctions {
+	#include "dmd_functions.hpp"
+	#include "CHVD\CfgFunctions.hpp"
+	#define HALs_DEF_FUNCTIONS
+		#include "HALs\Addons\main\config.hpp"
+	#undef HALs_DEF_FUNCTIONS
+};
+
+#include "dmd_config.hpp"
+#include "outlw_magRepack\MagRepack_config.hpp"
+
+class CfgSounds
+{
+	sounds[] = {};
+	class Heart_Beat_dying
+	{
+		// how the sound is referred to in the editor (e.g. trigger effects)
+		name = "heart_beat";
+
+		// filename, volume, pitch, distance (optional)
+		sound[] = { "Heart_Beat_dying.ogg", 1, 1, };
+		titles[] = {0, ""}; // Subtitle delay and text
+
+	}};
+
+class CfgMusic
+{
+    tracks[]={};
+    class music1
+	{
+		name = "music1";
+		sound[] = {"\music\music1.ogg", db+7, 1.0};
+	};
+
+	class music2
+	{
+		name = "music2";
+		sound[] = {"\music\music2.ogg", db+7, 1.0};
+	};
+
+	class music3
+	{
+		name = "music3";
+		sound[] = {"\music\music3.ogg", db+7, 1.0};
+	};
+
+	class music4
+	{
+		name = "music4";
+		sound[] = {"\music\music4.ogg", db+7, 1.0};
+	};
+
+	class music5
+	{
+		name = "music5";
+		sound[] = {"\music\music5.ogg", db+7, 1.0};
+	};
+
+	class music6
+	{
+		name = "music6";
+		sound[] = {"\music\music6.ogg", db+7, 1.0};
+	};
+
+	class music7
+	{
+		name = "music7";
+		sound[] = {"\music\music7.ogg", db+7, 1.0};
+	};
+
+	class music8
+	{
+		name = "music8";
+		sound[] = {"\music\music8.ogg", db+7, 1.0};
+	};
+
+	class music9
+	{
+		name = "music9";
+		sound[] = {"\music\music9.ogg", db+7, 1.0};
+	};
+
+	class music10
+	{
+		name = "music10";
+		sound[] = {"\music\music10.ogg", db+7, 1.0};
+	};
+
+	class music11
+	{
+		name = "music11";
+		sound[] = {"\music\music11.ogg", db+7, 1.0};
+	};
+
+	class music12
+	{
+		name = "music12";
+		sound[] = {"\music\music12.ogg", db+7, 1.0};
+	};
+
+	class music13
+	{
+		name = "music13";
+		sound[] = {"\music\music13.ogg", db+7, 1.0};
+	};
+
+	class music14
+	{
+		name = "music14";
+		sound[] = {"\music\music14.ogg", db+7, 1.0};
+	};
+
+	class music15
+	{
+		name = "music15";
+		sound[] = {"\music\music15.ogg", db+7, 1.0};
+	};
+
+	class music16
+	{
+		name = "music16";
+		sound[] = {"\music\music16.ogg", db+7, 1.0};
+	};
+
+	class music17
+	{
+		name = "music17";
+		sound[] = {"\music\music17.ogg", db+7, 1.0};
+	};
+
+	class music18
+	{
+		name = "music18";
+		sound[] = {"\music\music18.ogg", db+7, 1.0};
+	};
+
+	class music19
+	{
+		name = "music19";
+		sound[] = {"\music\music19.ogg", db+7, 1.0};
+	};
+
+	class music20
+	{
+		name = "music20";
+		sound[] = {"\music\music20.ogg", db+7, 1.0};
+	};
+
+	class music21
+	{
+		name = "music21";
+		sound[] = {"\music\music21.ogg", db+7, 1.0};
+	};
+
+	class music22
+	{
+		name = "music22";
+		sound[] = {"\music\music22.ogg", db+7, 1.0};
+	};
+
+	class music23
+	{
+		name = "music23";
+		sound[] = {"\music\music23.ogg", db+7, 1.0};
+	};
+
+	class music24
+	{
+		name = "music24";
+		sound[] = {"\music\music24.ogg", db+7, 1.0};
+	};
+
+	class music25
+	{
+		name = "music25";
+		sound[] = {"\music\music25.ogg", db+7, 1.0};
+	};
+
+	class music26
+	{
+		name = "music26";
+		sound[] = {"\music\music26.ogg", db+7, 1.0};
+	};
+
+	class music27
+	{
+		name = "music27";
+		sound[] = {"\music\music27.ogg", db+7, 1.0};
+	};
+
+	class music28
+	{
+		name = "music28";
+		sound[] = {"\music\music28.ogg", db+7, 1.0};
+	};
+
+	class music29
+	{
+		name = "music29";
+		sound[] = {"\music\music29.ogg", db+7, 1.0};
+	};
+     
+     class music30
+	{
+		name = "music30";
+		sound[] = {"\music\music30.ogg", db+7, 1.0};
+	};
+
+     class music31
+	{
+		name = "music31";
+		sound[] = {"\music\music31.ogg", db+7, 1.0};
+	};
+
+     class music32
+	{
+		name = "music32";
+		sound[] = {"\music\music32.ogg", db+7, 1.0};
+	};
+
+	class music33
+	{
+		name = "music33";
+		sound[] = {"\music\music33.ogg", db+7, 1.0};
+	};
+
+	class music34
+	{
+		name = "music34";
+		sound[] = {"\music\music34.ogg", db+7, 1.0};
+	};
+
+	class music35
+	{
+		name = "music35";
+		sound[] = {"\music\music35.ogg", db+7, 1.0};
+	};
+
+	class music36
+	{
+		name = "music36";
+		sound[] = {"\music\music36.ogg", db+7, 1.0};
+	};
+
+	class music37
+	{
+		name = "music37";
+		sound[] = {"\music\music37.ogg", db+7, 1.0};
+	};
+
+	class music38
+	{
+		name = "music38";
+		sound[] = {"\music\music38.ogg", db+7, 1.0};
+	};
+
+     class music39
+	{
+		name = "music39";
+		sound[] = {"\music\music39.ogg", db+7, 1.0};
+	};
+
+     class music40
+	{
+		name = "music40";
+		sound[] = {"\music\music40.ogg", db+7, 1.0};
+	};
+
+     class music41
+	{
+		name = "music41";
+		sound[] = {"\music\music41.ogg", db+7, 1.0};
+	};
+};
+
