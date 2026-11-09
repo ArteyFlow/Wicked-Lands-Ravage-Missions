@@ -28,15 +28,18 @@ Quickstart guide after installing the missions to set up multiplayer persistency
 https://docs.google.com/document/d/1_BeWjpAnlgtVHOH_GziHPTbqsA_08ATc/edit?amp;ouid=112157173411953700963&amp;rtpof=true&amp;sd=true
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 Required Mods:
 
 There's a read-me file inside that shows a full list of the required mods.
+-----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
 
 
   *Download Taviana map from this link to play on the Taviana missions:https://drive.google.com/file/d/1G-ZW8CJ_YsG1kmgIN06n5bGawBVS9T6a/view*
   ^ There is no virus as I uploaded the map myself
+-----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
 Supported Mods:
